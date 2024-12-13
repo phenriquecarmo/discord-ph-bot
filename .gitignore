@@ -1,0 +1,11 @@
+# But not these files...
+!.gitignore
+!*.py
+
+# Ignore virtual environment directories
+.venv/
+venv/
+myenv/
+
+# Ignore environment files
+.env
